@@ -9,3 +9,5 @@ npm install --save @ant-design/icons
 
 ## 配置antd 样式自动按需引入
 npm install vite-plugin-style-import@1.4.1 -D
+
+npm i less@2.7.1 -D
